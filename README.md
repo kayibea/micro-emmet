@@ -2,6 +2,9 @@
 
 Emmet — the essential toolkit for web-developers into micro.
 
+
+![Demo GIF](demo.gif "Demo: Expanding Emmet abbreviations")
+
 ---
 
 ## Installation
@@ -43,7 +46,6 @@ Result:
 </ul>
 ```
 
-![Demo GIF](demo.gif "Demo: Expanding Emmet abbreviations")
 
 ---
 
