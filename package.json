@@ -1,0 +1,28 @@
+{
+  "name": "micro-emmet",
+  "version": "0.0.1",
+  "description": "Emmet — the essential toolkit for web-developers into micro",
+  "keywords": [
+    "emmet",
+    "micro",
+    "html",
+    "css",
+    "editor"
+  ],
+  "homepage": "https://github.com/kayibea/micro-emmet#readme",
+  "bugs": {
+    "url": "https://github.com/kayibea/micro-emmet/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayibea/micro-emmet.git"
+  },
+  "license": "MIT",
+  "author": "kayibea",
+  "type": "module",
+  "main": "emmet.js",
+  "dependencies": {
+    "emmet": "^2.4.11"
+  },
+  "devDependencies": {}
+}
